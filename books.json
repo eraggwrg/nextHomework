@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Religions",
+        "author": "William baghinghem",
+        "price": 20,
+        "photo": "https://images.booksense.com/images/433/408/9781465408433.jpg"
+    },
+    {
+        "id": 2,
+        "title": "crime and punishment",
+        "author": "Lev Tolstoy",
+        "price": 13,
+        "photo": "https://www.moscowbooks.ru/image/book/568/orig/i568599.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The count of monte Christo",
+        "author": "Alexander Duma",
+        "price": 24,
+        "photo": "https://m.media-amazon.com/images/I/614MRGQiGgL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Robin Hood",
+        "author": "Alexander Duma",
+        "price": 20,
+        "photo": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508050369l/388223.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Twenty Years After",
+        "author": "Alexander Duma",
+        "price": 20,
+        "photo": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781643132020/twenty-years-after-9781643132020_hr.jpg"
+    }
+]
